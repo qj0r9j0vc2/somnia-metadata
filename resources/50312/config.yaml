@@ -1,0 +1,6 @@
+chain_id: 50312
+rpc_address: "https://dream-rpc.somnia.network"
+contract_address: "0xbe367d410d96e1caef68c0632251072cdf1b8250"
+validators:
+  - address: '0x2aeefb7d9dc9345d759eebe6183888006723a2e9'
+    moniker: 'B-Harvest'
